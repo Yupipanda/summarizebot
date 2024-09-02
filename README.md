@@ -20,6 +20,8 @@ pip install -r requirements.txt
 python3 main.py
 ```
 
+Далее вам нужно добавить его в свою супергруппу в телеграмме и по команде в этой группе '/start и_количество_постов_для_выдачи', бот начнет работать.(минимальное количество постов 5)
+
 Показ работы:
 [Видео на Youtube Shorts](https://www.youtube.com/shorts/8tYzkRdUsqw?feature=share)
 [Telegram Канал](https://t.me/yupipanda_channel)
